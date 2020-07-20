@@ -1,6 +1,7 @@
+git config -l
 git clone <url>
 git status
 git add .
 git commit -m "comit comment"
 git log
-
+gitk
